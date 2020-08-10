@@ -10,7 +10,8 @@
   - Differential transcript usage (DTU) analysis
 - Microbiome: [16S rDNA V3-V4 amplicon sequencing analysis](https://ycl6.github.io/16S-Demo/)
 - Tertiary analysis
-  - [GO Enrichment Analysis](https://ycl6.github.io/GO-Enrichment-Analysis-Demo/)
+  - GO Enrichment Analysis with [topGO and clusterProfiler](https://ycl6.github.io/GO-Enrichment-Analysis-Demo/)
+  - Visualize enrichment of genomic signals on targets or regions using [EnrichedHeatmap](https://ycl6.github.io/EnrichedHeatmap-Demo/)
 
 <!--
 **ycl6/ycl6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

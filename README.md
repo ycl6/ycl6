@@ -13,6 +13,10 @@
   - GO Enrichment Analysis with [topGO, clusterProfiler & Enrichr/enrichR](https://ycl6.github.io/GO-Enrichment-Analysis-Demo/)
   - Visualize enrichment of genomic signals on targets or regions using [EnrichedHeatmap](https://ycl6.github.io/EnrichedHeatmap-Demo/)
 
+## Misc.
+
+- Create a [GitHub Pages site](https://ycl6.github.io/GitHub-Pages-Demo/) for your repository
+
 <!--
 **ycl6/ycl6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

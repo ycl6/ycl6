@@ -16,6 +16,7 @@
 ## Misc.
 
 - Create a [GitHub Pages site](https://ycl6.github.io/GitHub-Pages-Demo/) for your repository
+- Create [stacked violin plots](https://ycl6.github.io/StackedVlnPlot/) from `Seurat`  or `data.frame` object
 
 <!--
 **ycl6/ycl6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

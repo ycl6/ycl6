@@ -10,13 +10,14 @@
   - Differential transcript usage (DTU) analysis
 - Microbiome: [16S rDNA V3-V4 amplicon sequencing analysis](https://ycl6.github.io/16S-Demo/)
 - Tertiary analysis
-  - GO Enrichment Analysis with [topGO, clusterProfiler & Enrichr/enrichR](https://ycl6.github.io/GO-Enrichment-Analysis-Demo/)
+  - GO enrichment analysis with [topGO, clusterProfiler & Enrichr/enrichR](https://ycl6.github.io/GO-Enrichment-Analysis-Demo/)
   - Visualize enrichment of genomic signals on targets or regions using [EnrichedHeatmap](https://ycl6.github.io/EnrichedHeatmap-Demo/)
 
 ## Misc.
 
 - Create a [GitHub Pages site](https://ycl6.github.io/GitHub-Pages-Demo/) for your repository
 - Create [stacked violin plots](https://ycl6.github.io/StackedVlnPlot/) from `Seurat`, `SingleCellExperiment`  or `data.frame` object
+- Short [examples of using R](https://github.com/ycl6/Simple-R-gists) in data analysis and visualisation
 
 <!--
 **ycl6/ycl6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

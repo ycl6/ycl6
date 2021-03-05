@@ -17,6 +17,7 @@
 
 - Create a [GitHub Pages site](https://ycl6.github.io/GitHub-Pages-Demo/) for your repository
 - Create [stacked violin plots](https://ycl6.github.io/StackedVlnPlot/) from `Seurat`, `SingleCellExperiment`  or `data.frame` object
+- Gallery showcasing [Pandoc syntax highlight styles](https://ycl6.github.io/Compare-pandoc-styles/) before and after version 2.11
 - Short [examples of using R](https://github.com/ycl6/Simple-R-gists) in data analysis and visualisation
 
 <!--

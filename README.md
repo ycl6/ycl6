@@ -19,6 +19,8 @@
 - Create [stacked violin plots](https://ycl6.github.io/StackedVlnPlot/) from `Seurat`, `SingleCellExperiment`  or `data.frame` object
 - Gallery showcasing [Pandoc syntax highlight styles](https://ycl6.github.io/Compare-pandoc-styles/) before and after version 2.11
 - Short [examples of using R](https://github.com/ycl6/Simple-R-gists) in data analysis and visualisation
+  - Deaths registered monthly in England and Wales
+  - Visualise differential expression analysis results with MA plot
 
 <!--
 **ycl6/ycl6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

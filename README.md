@@ -20,6 +20,7 @@
 - Gallery showcasing [Pandoc syntax highlight styles](https://ycl6.github.io/Compare-pandoc-styles/) before and after version 2.11
 - Short [examples of using R](https://github.com/ycl6/Simple-R-gists) in data analysis and visualisation
   - Deaths registered monthly in England and Wales
+  - COVID-19 Vaccination Statistics in England
   - Visualise differential expression analysis results with MA plot
 
 <!--

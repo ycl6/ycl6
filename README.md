@@ -22,6 +22,7 @@
   - Deaths registered monthly in England and Wales
   - COVID-19 Vaccination Statistics in England
   - Visualise differential expression analysis results with MA plot
+  - Visualise interaction between 2 variables with parallel sets diagrams
 
 <!--
 **ycl6/ycl6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

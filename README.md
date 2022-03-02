@@ -16,13 +16,14 @@
 ## Misc.
 
 - Create a [GitHub Pages site](https://ycl6.github.io/GitHub-Pages-Demo/) for your repository
-- Create [stacked violin plots](https://ycl6.github.io/StackedVlnPlot/) from `Seurat`, `SingleCellExperiment`  or `data.frame` object
+- Create [stacked violin plots](https://ycl6.github.io/StackedVlnPlot/) from `Seurat`, `SingleCellExperiment`  and `data.frame` objects
 - Gallery showcasing [Pandoc syntax highlight styles](https://ycl6.github.io/Compare-pandoc-styles/) before and after version 2.11
 - Short [examples of using R](https://github.com/ycl6/Simple-R-gists) in data analysis and visualisation
   - Deaths registered monthly in England and Wales
   - COVID-19 Vaccination Statistics in England
   - Visualise differential expression analysis results with MA plot
   - Visualise interaction between 2 variables with parallel sets diagrams
+  - Plot ligand-receptor expression on UMAP and t-SNE projection
 
 <!--
 **ycl6/ycl6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

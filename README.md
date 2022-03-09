@@ -22,6 +22,7 @@
   - Deaths registered monthly in England and Wales
   - COVID-19 Vaccination Statistics in England
   - Visualise differential expression analysis results with MA plot
+  - Normalisation of bulk RNA-seq counts
   - Visualise interaction between 2 variables with parallel sets diagrams
   - Plot ligand-receptor expression on UMAP and t-SNE projection
 

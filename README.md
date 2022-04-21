@@ -2,6 +2,10 @@
 
 ### Welcome to my GitHub profile!
 
+## R Packages
+
+- [scRUtils](https://github.com/ycl6/scRUtils): Single-Cell Sequencing Analysis Utilities [[Vignette](https://ycl6.github.io/scRUtils/)]
+
 ## NGS Tutorials
 
 - RNA-Seq: [RNA-seq Data Analysis](https://ycl6.gitbook.io/guide-to-rna-seq-analysis/)
